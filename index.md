@@ -87,7 +87,7 @@ I am participating in STEM education support through Orionrobots.
 
 Danny Staple has expert knowledge in the realm of developing software for broadcast and media usage, including applications on Set Top Boxes (DVB - T,S,C), Connected TV Platforms (including Samsung Widgets, Yahoo Widgets) and server side support for these - such as EPG Servers, VOD Metadata servers, usage tracking systems and others.
 
-This includes not only developing apps on these systems, but incorporating automated testing and Continuous integration into our strategies enhancing code quality and confidence. I am not only users of BDD, TDD and unit testing frameworks, but actively researching and contributing to this aspect of Software Practice Advancement.
+This includes not only developing apps on these systems, but incorporating automated testing and Continuous integration into our strategies enhancing code quality and confidence. I am not only a user of BDD, TDD and unit testing frameworks, but actively researching and contributing to this aspect of Software Practice Advancement.
 
 Although Python is my main language, I have developed tools, apps and games in C++, C, ActionScript, Ruby, PHP and Perl - and am able to adapt to languages or tools as needed (at least those that have documentation). My focus is on well designed, maintainable and clean code, with a view to portability given that some apps may need to be run on diverse technologies.
 
