@@ -1,0 +1,34 @@
+<script type="text/javascript">
+//Ideas from http://css-tricks.com/automatic-table-of-contents/
+//Include this in the header.
+function dotoc() {
+
+  var items = $("h1,h2,h3");
+
+  var inner = "";
+  items.each(function() {
+    el = $(this);
+    title = el.text();
+    if (this.id) {
+      link = "#" + el.attr('id');
+      newLine =
+        "<li class=\"" + el.context.localName + "\" >" +
+          "<a href='" + link + "'>" +
+            title +
+          "</a>" +
+        "</li>";
+
+      inner += newLine;
+    }
+  });
+  if(inner.length > 0) {
+    var ToC = 
+   "<nav role='navigation' class='table-of-contents'>" +
+      "<h2>On this page:</h2>" +
+      "<ul>" + inner + "</ul>" + "</nav>";  
+
+    $(".span12").prepend(ToC);
+  }
+}
+$( dotoc );
+</script>
