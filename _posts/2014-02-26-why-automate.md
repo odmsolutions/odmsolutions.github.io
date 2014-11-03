@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Bother With Automation
-tags: [automation, continuous integration, automated testing]
+tags: [automation, continuous integration, automated testing, devops]
 ---
 
 Why automate?
