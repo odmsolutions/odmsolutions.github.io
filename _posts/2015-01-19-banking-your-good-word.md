@@ -17,7 +17,9 @@ Players often looking daft if they could have banked a large sum and failed to g
 
 # Why source control?
 
-When writing code, it takes thought and effort to do so. Zero cost code does not exist. While making it readable and maintainable improves drastically your chances of building more on the code later, source control is the insurance policy. It has a small cost in time. Good tools may make this a trivial cost. Now if you make a mess of further changes or you break it, you have banked some of this work, you can go back to what you had only a short time earlier. If you bother to save often, make committing code changes early and often part of the same reflex.
+When writing code, it takes thought and effort to do so. Zero cost code does not exist. While making it readable and maintainable improves drastically your chances of building more on the code later, source control is the insurance policy. It has a small cost in time. Good tools may make this a trivial cost. When you've got something that does a bit more, doesn't break other stuff, then its time to **bank** it.
+
+Now if you make a mess of further changes or you break it, you have banked some of this work, you can go back to what you had only a short time earlier. If you bother to save often, make committing code changes early and often part of the same reflex.
 
 I cannot count how many times it had saved my bacon. That creeping dread where you've changed too much in one hit and it no longer works or makes sense. Where you've not tested stuff since you started and would like to bring stuff in again more slowly.
 
