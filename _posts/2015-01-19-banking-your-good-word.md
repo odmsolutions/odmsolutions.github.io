@@ -3,8 +3,6 @@ layout: post
 title: Banking Your Good work
 tags: [programming, vcs, source control, git, svn]
 ---
-# Why source control, for non developers or non scm users?
-
 If you have ever watched the British show "the weakest link" you will have heard them user the phrase "bank".
 
 The format of the show is that the rather formidable Anne Robinson sets questions to a panel of people. The questions range in complexity, and as they are asked the amount of winnings at stake increase.
@@ -16,6 +14,8 @@ At any point they are also against the clock. They can choose to interrupt with 
 The worst player is then voted off at the end of each round by other players. It is a game with some intrigue and backstabbing as players may vote off stronger players so they don't have to compete with them later. But this is besides the point.
 
 Players often looking daft if they could have banked a large sum and failed to get the next question. Money lost. Easy way to make the rest of the team want them off.
+
+# Why source control?
 
 When writing code, it takes thought and effort to do so. Zero cost code does not exist. While making it readable and maintainable improves drastically your chances of building more on the code later, source control is the insurance policy. It has a small cost in time. Good tools may make this a trivial cost. Now if you make a mess of further changes or you break it, you have banked some of this work, you can go back to what you had only a short time earlier. If you bother to save often, make committing code changes early and often part of the same reflex.
 
