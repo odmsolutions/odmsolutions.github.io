@@ -61,6 +61,8 @@ The man simply asks for the beer, and the barman provides it. All the business a
 
 The arrangement is much simpler than both of the alternatives. The man gets his beer sooner. The barman is free to serve the next customer sooner. 
 
+There is probably even the right atmosphere for a chat at the bar...
+
 # Applying this to design of systems
 
 When you design your systems and write your code, try to keep this interaction in mind. Have you overreached? Is your object doing things that it should not? Why provide a bar (which is kind of useful) without a barman to operate it? Why have a barman who manhandles and pours beer down the customers throat?
