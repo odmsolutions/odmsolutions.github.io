@@ -47,7 +47,7 @@ The man is unable to speak to another customer, and we dread to think what happe
 It is not a particularly great experience for man or barman, although the barman knows far more about the man than they need to, including the content of his wallet. 
 The man seems to have little choice, perhaps a really good barman can choose a great drink, perhaps not.
 
-# How you or I'd expect it to work
+# Story Three: How you or I'd expect it to work
 
 A man goes into a bar. A barman is present.
 
