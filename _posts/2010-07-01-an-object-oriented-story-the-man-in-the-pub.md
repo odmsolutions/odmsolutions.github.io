@@ -6,9 +6,9 @@ tags: [code, abstraction, modular code, clean interfaces, beer, encapsulation]
 
 ![Buying Beers](/galleries/2010-07-01-an-object-oriented-story-the-man-in-the-pub/buying_beer.png){: style="float:left; padding-right: 4px"}
 
-# I Like Beers
+# I Like Beer
 
-I like beer. I enjoy drinking it, and in a pub that is pleasant, and not crammed, it can also be nice buying it.
+I enjoy drinking it, and in a pub that is pleasant, and not crammed, it can also be nice buying it.
 
 Let me tell you a story, which starts with a man going into a bar...
 
