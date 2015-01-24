@@ -3,7 +3,7 @@ layout: post
 title: Banking Your Good work
 tags: [programming, vcs, source control, git, svn]
 ---
-If you have ever watched the British show "the weakest link" you will have heard them user the phrase "bank".
+If you have ever watched the British show "The Weakest Link" you will have heard them user the phrase "Bank".
 
 The format of the show is that the rather formidable Anne Robinson sets questions to a panel of people. The questions range in complexity, and as they are asked the amount of winnings at stake increase.
 
