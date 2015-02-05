@@ -17,6 +17,8 @@ One gotcha is that problem space may not be an exact match of yours. You may fin
 
 If you use a framework that is widely known, you can take your knowledge and use that framework to solve it again. You will be able to find other people with skills in that framework. This is something that would take time for someone to learn for your own implemenetation of a domain.
 
+The caveat here is that some frameworks threaten to swamp you with more learning than building a solution of your own. 
+
 ## Why I hate frameworks - upgrades and api changes
 
 This can be nightmarish cold sweat. You need some feature or bug fix they have, but an upgrade requires system wide changes in your code to accomodate the changes in philosophy that the framework developers have made. If you are lucky they will backport really important fixes, or really useful parts. But don't count on it. I swear I've lost sanity points with some of the less freindly upgrades.
