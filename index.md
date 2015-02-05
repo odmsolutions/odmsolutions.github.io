@@ -32,7 +32,7 @@ I have been working in automation for continuous integration systems with BSkyB 
 
 I have been using Hudson/Jenkins since 2009 and have made contributions to some of the public plugins for the system, as well as being involved in the JIRA/mailing list communities. This includes system admin, extending with Jelly, and building jobs with it.
 
-## Test Automation
+## Test automation
 I am a test-infected, or even test-obsessed developer, and in the last 4 years I have been working
 closely with a number of automated testing methods:
 
@@ -54,9 +54,9 @@ ODM Solutions is able to consult on single step build processes for complex buil
 * Various scripting languages for transformation.
 * GCC
 
-## Report Automation and visualisation
+## Report automation and visualisation
 
-Rendering HTML, PDF or email reports based on test results or other datasets. 
+Rendering HTML, PDF or email reports based on test results or other datasets. Making single file sharable reports, or dynamic HTML reports from a live backend.
 
 ## Installation monitoring and management
 
@@ -69,7 +69,7 @@ Tools to manage automation systems including:
 
 We are able to install this in a local context at your site, or in a cloud context like AWS.
 
-## Industry Participation
+## Industry participation
 
 Danny Staple is a member of the BCS (British Computer Society), and specifically the following special interest groups there:
 
@@ -77,7 +77,7 @@ Danny Staple is a member of the BCS (British Computer Society), and specifically
 * Advanced Programming
 * Testing Specialists
 
-I have attended PyCon Uk for the past two years, and turn up at London Python Group events along with Skillsmatter events.
+I have attended PyCon Uk since 2012, and turn up at London Python Group events along with Skillsmatter events.
 
 I am participating in STEM education support through Orionrobots.
 
@@ -91,7 +91,7 @@ This includes not only developing apps on these systems, but incorporating autom
 
 Although Python is my main language, I have developed tools, apps and games in C++, C, ActionScript, Ruby, PHP and Perl - and am able to adapt to languages or tools as needed (at least those that have documentation). My focus is on well designed, maintainable and clean code, with a view to portability given that some apps may need to be run on diverse technologies.
 
-# Contacting Us
+# Contacting us
 
 The easiest way to contact ODM Solutions is to email <a href="mailto:danny@odmsolutions.co.uk">danny@odmsolutions.co.uk</a>.
 
