@@ -3,6 +3,8 @@ layout: post
 title: Why I Love And Hate Frameworks
 tags: [programming, libraries, frameworks, rants]
 ---
+Author: Danny Staple
+
 I love frameworks, and I hate frameworks. I think in many cases, most developers should try and use them, but they can be a double edged sword and introduce unwanted problems. This applies also to libraries, tools, suites of stuff and other-peoples-code in general. On the whole - this mostly applies to Open Source frameworks, but some principles apply to closed source tools too.
 
 ## Why I Love Frameworks - Building on the shoulders of giants
