@@ -39,4 +39,10 @@ Sometimes a framework is just to heavy, complex and slow for what you need - it 
 
 # Why I love frameworks - The solution you'd not considered
 
-It takes a lot of effort to find elegance in code, simplicity and brevity for expressing a concept does not come naturally, and a great deal of code I've seen from other people (including in some frameworks and libraries) is very much a brain dump into a single source file or function. But
+It takes a lot of effort to find elegance in code, simplicity and brevity for expressing a concept does not come naturally, and a great deal of code I've seen from other people (including in some frameworks and libraries) is very much a brain dump into a single source file or function. But the best frameworks have resulted from people arriving at a very neat way to express things, a way of make 3 lines of code do what 500 used to do. While the 500 lines is still there buried int eh frameworks implementation, many 3 line snippets will use it. 
+
+For the most part you can treat the other bit as a black box - the very reason that in computing the means of abstraction, and the means of composition are fundamental.
+
+# Contribute code
+
+If you have a neat idea, a way of expressing things that makes more sense than what you've seeen, or a way to enhance a framework, then pelease do publish it. If you know you can write code better than the code in the frameworks, then you should be writing frameworks. If you know you trust your hand assembled code in all the places you'd use a compiler - you should consider being a compiler writer. Frameworks are not the "best code ever written", and some very far from it, but they are a product of knowledge pooled and shared - by far the best way in which humans progress.
