@@ -6,11 +6,15 @@ title: VSCode - My Current Favourite Editor
 ---
 {% include JB/setup %}
 
+# Overview 
+
 Every now and again, I find new tools that I really like. I've been through many editors, Vim and Emacs, I can use Nano where I must. I prefer Notepad++ over notepad, can deal with Leafpad and IDLE.
 
 The last few years, I'd settled on a few favourites for Windows, Mac and Linux in UI. PyCharm was what I used when I needed a full-blown Python IDE - it's a very excellent tool and I highly recommend it. For lightweight stuff, Vim, Notepad++ and Gedit were my selection of tools.
 
 However, I've recently discovered VSCode - Visual Studio Code and it's taken over. It is from Microsoft, and it is fully open source - the code is all on Github.  It's multiplatform - runs on Windows, Linux and Mac. I'm not so sure about older versions of Windows, I've been using on 7 and 10.
+
+# What I like about it
 
 First it is fast. It starts up fairly quickly - about as fast as Notepad++ did. This meant it got reached for more often than Pycharm which can have a massive startup cost.
 
@@ -24,6 +28,20 @@ Interaction is via a tool-palette and well documented shortcuts. The tool palett
 
 There is a build in terminal that is reasonably decent.
 
+# It's not perfect
+
 It has a few quirks - the multi-monitor story is a bit awkward at the moment if you want files from the same project on different screens. 
 
+I had to interact with an older SVN project, and the integration was a bit poor there - but this is in an extension - so it will not stay this way.
+
+# Worth trying
+
 I'll perhaps come back with more on the editor - but I would like to suggest trying it if you've not done so, it's fairly refreshing.
+My feeling is because it is open source and extensible, quirks like this will be rapidly ironed out. 
+
+The strong leaning to plain old json and not strange complicated preference files and extensions keep this really accessible and it exudes hackability.
+
+# Links
+
+[Download and Try Vscode](https://code.visualstudio.com/download)
+
