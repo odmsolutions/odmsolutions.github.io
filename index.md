@@ -18,6 +18,16 @@ Build and delivery, repetative (not exploratory) testing, endurance (soak) testi
 
 This site is on github. If you think there is a change required, or would like to contact us about something, please go to https://github.com/odmsolutions/odmsolutions.github.io, and either raise an issue or a PR.
 
+# Recent Articles
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # About Danny Staple
 
 I am the Director of ODM Solutions, and a skilled IT professional.
