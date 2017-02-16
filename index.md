@@ -14,6 +14,10 @@ What things are worth automating? The following list is not exhaustive:
 
 Build and delivery, repetative (not exploratory) testing, endurance (soak) testing, test reporting, other reporting related to software process (including usage tracking and field error reporting), software resource usage visualisation, source control commit validation (does it build? is it broken?), enhancing bug reports with additional data - or automatically reproducing failed tests using builds with instrumentation.
 
+# This Page
+
+This site is on github. If you think there is a change required, or would like to contact us about something, please go to https://github.com/odmsolutions/odmsolutions.github.io, and either raise an issue or a PR.
+
 # About Danny Staple
 
 I am the Director of ODM Solutions, and a skilled IT professional.
