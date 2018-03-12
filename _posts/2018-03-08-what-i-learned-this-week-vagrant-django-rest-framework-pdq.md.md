@@ -43,8 +43,8 @@ This required creating a PDQ package using the `netsh` command in most current v
 
 However, here is the code to modify it from within a windows shell (cmd or powershell):
 
-  netsh interface ip set dns "<Interface name>" static 10.209.62.1
-  netsh interface ip add dns "<interface name>" 10.209.62.253 index=2
+    netsh interface ip set dns "<Interface name>" static 10.209.62.1
+    netsh interface ip add dns "<interface name>" 10.209.62.253 index=2
   
 Substitute your own interface names, and 1st/2nd nameserver choice. Note that the first is a `set` and the second `add`. 
 I was able then to put this in a PDQ package and run across many servers in our inventory.
