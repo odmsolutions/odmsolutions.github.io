@@ -1,7 +1,7 @@
 ---
 layout: post
 description: How PDQ Could Be Made Dev-Ops Ready (2017)
-tags: [windows,automation,devops,tools,scm,git,ansible]
+tags: [windows,automation,devops,tools,scm,git,ansible, pdq]
 title: How PDQ Could Be Made Dev-Ops Ready (2017)
 ---
 
