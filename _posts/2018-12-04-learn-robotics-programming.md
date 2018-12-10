@@ -1,7 +1,7 @@
 ---
 layout: post
 description: Danny Staple Published Robot Book - Learn Robotics Programming
-tags: [robotics, python, raspberrypi]
+tags: [robotics, python, raspberrypi, robots]
 title: Learn Robotics Programming
 ---
 Danny Staple, the director of ODM Solutions has published a programming book!
@@ -12,7 +12,14 @@ The book is [Learn Robotics Programming](https://www.amazon.co.uk/Learn-Robotics
 
 ## About the book
 
-In this book Danny shows how to build and program a robot using a Raspberry Pi, and the Python programming language. Also used are HTML, CSS and JS along with Linux tools.
+In this book Danny shows how to build and program a robot using a Raspberry Pi 3b+, and the Python programming language. Also used are HTML5, CSS and JS along with Linux tools.
 
-These are used to make autonomous behaviours like Line following, wall avoiding, then visual processing leading to colored object tracking, face tracking, along with ways to manually drive it via a web app on a phone - combining camera views with WiFi. The robot is then linked with mycroft for a Voice Assistant so you can ask the robot to do things by talking!
+These are used to make autonomous behaviours like Line following, wall avoiding, then visual processing leading to colored object tracking, face tracking, along with ways to manually drive it via a web app on a phone - combining camera views with WiFi. The Raspberry Pi-powered robot is then linked with mycroft for a Voice Assistant so you can see how to make a robot do things by talking!
 
+The book serves as a detailed robot building tutorial. The book takes you step by step through the trade offs and decisions, planning, making, programming and troubleshooting of a robot.
+
+The phone aspect also makes this an IOT robot, using internet of things techniques to interact with it and get the robot to do things. 
+
+Making robot electronics is covered, including a basic introduction to soldering, along with sensors for robots and common problems like voltage level shifting. 
+
+Once you are happy with programming autonomous robotics with python, and building a Raspberry Pi Robot Buggy you will be have the tools to plan and make a PiWars entry.
