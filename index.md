@@ -16,7 +16,7 @@ Build and delivery, repetative (not exploratory) testing, endurance (soak) testi
 
 # This Page
 
-This site is on github. If you think there is a change required, or would like to contact us about something, please go to https://github.com/odmsolutions/odmsolutions.github.io, and either raise an issue or a PR.
+This site is on github. If you think there is a change required, or would like to contact us about something, please go to <https://github.com/odmsolutions/odmsolutions.github.io>, and either raise an issue or a PR.
 
 # Recent Articles
 
