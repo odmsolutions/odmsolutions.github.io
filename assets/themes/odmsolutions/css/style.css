@@ -9,6 +9,23 @@
 .navbar .nav {
   float: right; }
 
+
+.navbar .brand {
+  color: #FFFFFF;
+  text-shadow:  0 1px 0 #15736B;
+}
+
+.navbar-inner {
+  background-color: #15736B;
+  background-image: None;
+  border: 0;
+}
+
+.navbar .nav>li>a {
+  color: #FFFFFF;
+  text-shadow: 0 1px 0 #15736B;
+}
+
 /* posts index */
 .post > h3.title {
   position: relative;
