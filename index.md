@@ -29,37 +29,39 @@ This site is on github. If you think there is a change required, or would like t
 
 # About Danny Staple
 
-I am the Director of ODM Solutions, and a skilled IT professional.
+Danny is the Director of ODM Solutions, and a skilled IT professional.
 
 ## Python
 
-I've been using Python for close to a decade for various tasks, professionally since around 2008. 
+Danny been using Python for close to a decade for various tasks, professionally since around 2008. 
 
-I have used it as a tool for many things including the automation systems below, Django apps for managing DB data, data file transformation and reporting, hardware monitoring, site-to-site synchronisation.
+ODM has used it as a tool for many things including the automation systems below, Django apps for managing DB data, data file transformation and reporting, hardware monitoring, site-to-site synchronisation.
 
-I am using Python to work with robots (please see <a href="http://orionrobots.co.uk">OrionRobots</a> - stuff with Raspberry Pi and Arduino).
+Danny Staple is also using Python to work with robots (please see <a href="http://orionrobots.co.uk">OrionRobots</a> - stuff with Raspberry Pi and Arduino).
 
 ## Automation
 
-I have been working in automation for continuous integration systems with BSkyB since 2010. This is automation of software builds, software testing and delivery into test/integration teams.
+ODM have been working in automation for continuous integration systems with Sky, Cisco and Synamedia since 2010. This is automation of software builds, software testing and delivery into test/integration teams.
 
-I have been using Hudson/Jenkins since 2009 and have made contributions to some of the public plugins for the system, as well as being involved in the JIRA/mailing list communities. This includes system admin, extending with Jelly, and building jobs with it.
+ODM has been using Hudson/Jenkins since 2009 and have made contributions to some of the public plugins for the system, as well as being involved in the JIRA/mailing list communities. This includes system admin, extending with Jelly, and building jobs with it.
 
 ## Test automation
-I am a test-infected, or even test-obsessed developer, and in the last 4 years I have been working
+
+Danny is a test-infected, or even test-obsessed developer, and has been working
 closely with a number of automated testing methods:
 
 * Automatic unit testing - mocking, stubbing, optimizing where tests need speeding up.
 * Integration testing - bringing components together and testing sections of a full system.
 * Full Stack Testing - Testing on hardware.
 
-I have experience with the S3 StormTest system since 2010 for testing full stack on STB's.
-I am familiar with Pythons Unittest, Micheal Foords Mock, VirtualEnv and Nose for testing python systems.
-I have built a system for automating testing of ActionScript with a Jasmine like syntax and automated from Jenkins.
+ODM has experience with the S3 StormTest system since 2010 for testing full stack on STB's.
+Danny is familiar with Pythons Unittest, Micheal Foords Mock, VirtualEnv and Nose for testing python systems.
+Prior to starting ODM, Danny built a system for automating testing of ActionScript with a Jasmine like syntax and automated  by integration with Hudson (now Jenkins).
 
 Some experience with Selenium, VirtualBox.
 
 ## Build automation
+
 ODM Solutions is able to consult on single step build processes for complex builds involving multiple languages and technologies. This includes working with:
 
 * Makefiles
@@ -90,9 +92,9 @@ Danny Staple is a member of the BCS (British Computer Society), and specifically
 * Advanced Programming
 * Testing Specialists
 
-I have attended PyCon Uk since 2012, and turn up at London Python Group events along with Skillsmatter events.
+Danny has attended PyCon Uk since 2012, and turn up at London Python Group events along with Skillsmatter events.
 
-I am participating in STEM education support through Orionrobots.
+Danny participates in STEM education support through Orionrobots.
 
 <a href="http://github.com/dannystaple">Danny Staple Public Contributions On Github</a>
 
@@ -100,9 +102,9 @@ I am participating in STEM education support through Orionrobots.
 
 Danny Staple has expert knowledge in the realm of developing software for broadcast and media usage, including applications on Set Top Boxes (DVB - T,S,C), Connected TV Platforms (including Samsung Widgets, Yahoo Widgets) and server side support for these - such as EPG Servers, VOD Metadata servers, usage tracking systems and others.
 
-This includes not only developing apps on these systems, but incorporating automated testing and Continuous integration into our strategies enhancing code quality and confidence. I am not only a user of BDD, TDD and unit testing frameworks, but actively researching and contributing to this aspect of Software Practice Advancement.
+This includes not only developing apps on these systems, but incorporating automated testing and Continuous integration into our strategies enhancing code quality and confidence. ODM are not only users of BDD, TDD and unit testing frameworks, but actively researching and contributing to this aspect of Software Practice Advancement.
 
-Although Python is my main language, I have developed tools, apps and games in C++, C, ActionScript, Ruby, PHP and Perl - and am able to adapt to languages or tools as needed (at least those that have documentation). My focus is on well designed, maintainable and clean code, with a view to portability given that some apps may need to be run on diverse technologies.
+Although Python is Danny's main language, he has developed tools, apps and games in C++, C, ActionScript, Ruby, PHP and Perl - and is able to adapt to languages or tools as needed (at least those that have documentation). ODM's focus is on well designed, maintainable and clean code, with a view to portability given that some apps may need to be run on diverse technologies.
 
 # Contacting us
 
