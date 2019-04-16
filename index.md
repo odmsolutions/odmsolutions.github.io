@@ -4,7 +4,6 @@ title: ODM Solutions
 description: Who we are and what we do
 ---
 {% include JB/setup %}
-# ODM Solutions
 
 Established in 2010 as a consultancy for automation of processes involved in software development, testing and delivery. 
 
