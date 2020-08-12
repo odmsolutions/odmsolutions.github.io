@@ -33,11 +33,13 @@ Danny is the Director of ODM Solutions, and a skilled IT professional.
 
 ## Python
 
-Danny been using Python for close to a decade for various tasks, professionally since around 2008. 
+Danny been using Python professionally since 2008, both in the workplace with ODM, and in robotics with the Raspberry Pi, having authored the Python book "Learn Robotics Programming".
 
-ODM has used it as a tool for many things including the automation systems below, Django apps for managing DB data, data file transformation and reporting, hardware monitoring, site-to-site synchronisation.
+ODM has used it to build or enhance many things including the automation systems below, Django apps for managing DB data, data file transformation and reporting, hardware monitoring, site-to-site synchronisation.
 
-Danny Staple is also using Python to work with robots (please see <a href="http://orionrobots.co.uk">OrionRobots</a> - stuff with Raspberry Pi and Arduino).
+Other familiar python tools include: Flask, Requests.
+
+See more on how Danny Staple is also using Python to work with robots at <a href="http://orionrobots.co.uk">OrionRobots</a> - stuff with Raspberry Pi and Arduino.
 
 ## Automation
 
@@ -55,15 +57,32 @@ closely with a number of automated testing methods:
 * Full Stack Testing - Testing on hardware.
 
 ODM has experience with the S3 StormTest system since 2010 for testing full stack on STB's.
-Danny is familiar with Pythons Unittest, Micheal Foords Mock, VirtualEnv and Nose for testing python systems.
-Prior to starting ODM, Danny built a system for automating testing of ActionScript with a Jasmine like syntax and automated  by integration with Hudson (now Jenkins).
+Danny is familiar with Pythons Unittest, Micheal Foords Mock, VirtualEnv, Pytest and Nose for testing python systems.
+Prior to starting ODM, Danny built a system for automating testing of ActionScript with a syntax inspired by Jasmine.js (similar to Mocha) and automated by integration with Hudson (now Jenkins).
 
-Some experience with Selenium, VirtualBox.
+He has used Selenium to automate testing of websites and web apps. 
+
+## Environment Automation
+
+Danny has used docker containers both as a convenient developer aid, and with systems deploying a connected set of containers, in test, staging and live deployments.
+
+Danny has also used Vagrant to create development environments where docker may not be available, getting developers running quickly with the same software, libraraies and set up as their team mates. He is also familiar with the python Virtual Env system for lighter weight local test environments.
+
+He has experience using a collection of tools for automating deployments. Ansible for installing packages, configuring systems and setting up a base layer. Gitlab CI for testing, and automated deployment stages, or using Github actions for deploying built artefacts to an S3 bucket.
 
 ## Build automation
 
-ODM Solutions is able to consult on single step build processes for complex builds involving multiple languages and technologies. This includes working with:
+ODM Solutions is able to consult on single step build processes for complex builds involving multiple languages and technologies. This includes working with CI/CD systems to run build, test and deployment steps in a pipeline:
 
+* Gitlab CI
+* Jenkins
+* Github Actions
+* Travis
+
+And a little experience with appveyor. He has built git hook based systems further in the past, but would not recommend this over one of the above systems now.
+In terms of supporting builds, he is able to work with:
+
+* Invoke task.py
 * Makefiles
 * Bash Scripts
 * Various scripting languages for transformation.
@@ -71,11 +90,15 @@ ODM Solutions is able to consult on single step build processes for complex buil
 
 ## Report automation and visualisation
 
-Rendering HTML, PDF or email reports based on test results or other datasets. Making single file sharable reports, or dynamic HTML reports from a live backend.
+Rendering HTML, PDF, Excel or email reports based on test results or other datasets. 
+
+Making single file sharable reports, or dynamic HTML reports from a live backend. This can be dynamic graph systems like Kibana (in the ELK stack), Zabbix, Graphite/Grafana or more static but more elaborate graphs using matplotlib. He has also made 3d visualisations using VPython.
+
+This includes combining elements to make dashboards/wallboards and high visibility displays of data.
 
 ## Installation monitoring and management
 
-Tools to manage automation systems including:
+Tools to monitor automation systems including:
 
 * Django webapps (including CSS + JS with no-refresh screens).
 * Zabbix.
