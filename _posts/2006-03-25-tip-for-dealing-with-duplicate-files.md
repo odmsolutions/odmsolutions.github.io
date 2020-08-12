@@ -8,9 +8,9 @@ title: Tip for Dealing with Duplicate Files
 
 Lint, that useless stuff that accumulates in pockets, the bottom of backpacks and ladies handbags. Its annoying, and you computer appears to grow it too.
 
-I was going through my computer, trying to find an ancient document, but because it had not been in any way version controlled (with something like Subversion), there were a few editions, variations and copies. In fact, many of my documents have ended up like that, along with my photo collection and even some of my stored music. This accumulated rubbish was really annoying me. I didn't know which duplicate I should take as the master, or for that matter how many duplicates were simply wasting disk space, and were going to come back and haunt me with a reversion to a change I had made on another copy.
+I was going through my computer, trying to find an ancient document, but because it had not been in version control (with something like Subversion), there were a few editions, variations and copies. In fact, many of my documents have ended up like that, along with my photo collection. This accumulated rubbish was really annoying me. I didn't know which duplicate I should take as the master, or for that matter how many duplicates were simply wasting disk space, and were going to come back and haunt me with a reversion to a change I had made on another copy.
 
-So I was looking at building a python script to find, and list duplicate files. This was during a lack of internet brought on by a misbehaving broadband company, and progress was slow. While the lint annoyed me, it was not enough for me to make this a high priority project.
+So I was looking at building a python script to find and list duplicate files. This was during a lack of internet brought on by a misbehaving broadband company, and progress was slow. While the lint annoyed me, it was not enough for me to make this a high priority project.
 
 So, on the day I got internet back, the first thing I did was Googled to see what was out there, and I came across a rather neat tool named fslint. FSlint does what it says on the tin - it finds the lint on your FileSystem (FS). It find duplicates (by name or more importantly size), and it can also find temporary files, as well as empty dirs and badly named files.
 
