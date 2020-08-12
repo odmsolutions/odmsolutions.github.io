@@ -9,9 +9,11 @@ title: Math Problem Solved in Python
 I use the Python programming language, and came across a mathematics problem in an oldish (July 2005) copy of News Scientist.
 
 The problem (number 1343 in their regular enigma column) was this:
-Find the largest whole number, whose digits are different, and do not include 0, that is divisible by all of its individual digits.
+* Find the largest whole number
+* whose digits are different
+* do not include 0
+* that is divisible by all of its individual digits.
 
- 
 After playing with it, and reading around a little, I came up with a small python script which could solve the problem in 10 to 15 seconds on my machine - and that is not on an unused machine.
 
 # Some notes on my assumptions
