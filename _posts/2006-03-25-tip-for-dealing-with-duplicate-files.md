@@ -24,6 +24,5 @@ Enjoy it!
 
 * <http://www.pixelbeat.org/fslint/> - FSLint project home - Where you can download FSLint
 * <http://directory.fsf.org/All_Packages_in_Directory/fslint.html> - Free Software Foundation Directory entry on FSLint
-* <http://www.gnomefiles.org/app.php?soft_id=77> - FSLint on GnomeFiles repository
 * <http://ubuntu.wordpress.com/2005/10/08/find-duplicate-copies-of-files/> - Ubuntu Blog on Finding Duplicate Copies Of Files
 
