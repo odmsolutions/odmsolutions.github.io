@@ -4,7 +4,7 @@ description: Danny Staple Published Robot Book - Learn Robotics Programming
 tags: [robotics, python, raspberrypi, robots]
 title: Learn Robotics Programming
 ---
-Danny Staple, the director of ODM Solutions has published a programming book!
+Danny Staple, the director of ODM Solutions Ltd, has published a python programming book!
 
 The book is [Learn Robotics Programming](https://www.amazon.co.uk/Learn-Robotics-Programming-autonomous-Raspberry-ebook/dp/B07DT9R42B). 
 
@@ -12,14 +12,14 @@ The book is [Learn Robotics Programming](https://www.amazon.co.uk/Learn-Robotics
 
 ## About the book
 
-In this book Danny shows how to build and program a robot using a Raspberry Pi 3b+, and the Python programming language. Also used are HTML5, CSS and JS along with Linux tools.
+In this book, Danny shows how to build and program a robot using a Raspberry Pi 3b+, and the Python programming language. Also used are HTML5, CSS and JS along with Linux tools.
 
-These are used to make autonomous behaviours like Line following, wall avoiding, then visual processing leading to colored object tracking, face tracking, along with ways to manually drive it via a web app on a phone - combining camera views with WiFi. The Raspberry Pi-powered robot is then linked with mycroft for a Voice Assistant so you can see how to make a robot do things by talking!
+The book uses these tools make autonomous behaviours like Line following, wall avoiding, then visual processing leading to coloured object tracking, face tracking, along with ways to manually drive it via a web app on a smartphone - combining camera views with WiFi. The Raspberry Pi-powered robot is then linked with Mycroft for a Voice Assistant so you can see how to make a robot do things by talking!
 
-The book serves as a detailed robot building tutorial. The book takes you step by step through the trade offs and decisions, planning, making, programming and troubleshooting of a robot.
+The book serves as a detailed robot building tutorial. The book takes you step-by-step through the trade-offs and decisions, planning, making, programming and troubleshooting of a robot.
 
-The phone aspect also makes this an IOT robot, using internet of things techniques to interact with it and get the robot to do things. 
+The phone aspect also makes this an IOT robot, using internet-of-things techniques to interact with the robot and control it.
 
 Making robot electronics is covered, including a basic introduction to soldering, along with sensors for robots and common problems like voltage level shifting. 
 
-Once you are happy with programming autonomous robotics with python, and building a Raspberry Pi Robot Buggy you will be have the tools to plan and make a PiWars entry.
+Once you are happy with programming autonomous-robots with python and building a Raspberry Pi Robot Buggy, you will have the tools to plan and make a PiWars entry.
