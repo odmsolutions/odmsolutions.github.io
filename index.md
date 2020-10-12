@@ -13,9 +13,10 @@ What things are worth automating? The following list is not exhaustive:
 
 Build and delivery, repetative (not exploratory) testing, endurance (soak) testing, test reporting, other reporting related to software process (including usage tracking and field error reporting), software resource usage visualisation, source control commit validation (does it build? is it broken?), enhancing bug reports with additional data - or automatically reproducing failed tests using builds with instrumentation.
 
-# This Page
 
-This site is on github. If you think there is a change required, or would like to contact us about something, please go to <https://github.com/odmsolutions/odmsolutions.github.io>, and either raise an issue or a PR.
+# Contacting us
+
+The easiest way to contact ODM Solutions is to email <a href="mailto:danny@odmsolutions.co.uk">danny@odmsolutions.co.uk</a>.
 
 # Recent Articles
 
@@ -31,6 +32,24 @@ This site is on github. If you think there is a change required, or would like t
 
 Danny is the Director of ODM Solutions, and a skilled IT professional.
 
+## DevOps
+
+Danny has been involved in Dev Ops for over 10 years, being part of early initiatives to embed source control into organisations as early as 2005, to create automated test infrastructure from 2009. He has since then been involved in all stages of software delivery, creating tools to compile software, to improve it's quality and to provide systems to run this.
+
+### Environment Automation
+
+Danny has used docker containers both as a convenient developer aid, and with systems deploying a connected set of containers, in test, staging and live deployments.
+
+Danny has also used Vagrant to create development environments where docker may not be available, getting developers running quickly with the same software, libraraies and set up as their team mates. He is also familiar with the python Virtual Env system for lighter weight local test environments.
+
+He has experience using a collection of tools for automating deployments. Ansible for installing packages, configuring systems and setting up a base layer. Gitlab CI for testing, and automated deployment stages, or using Github actions for deploying built artefacts to an S3 bucket.
+
+### CI/CD Automation
+
+ODM have been working in automation for continuous integration systems with Sky, Cisco and Synamedia since 2010. This is automation of software builds, software testing and delivery into test/integration teams.
+
+ODM has been using Hudson/Jenkins since 2009 and have made contributions to some of the public plugins for the system, as well as being involved in the JIRA/mailing list communities. This includes system admin, extending with Jelly, and building jobs with it.
+
 ## Python
 
 Danny been using Python professionally since 2008, both in the workplace with ODM, and in robotics with the Raspberry Pi, having authored the Python book "Learn Robotics Programming".
@@ -40,12 +59,6 @@ ODM has used it to build or enhance many things including the automation systems
 Other familiar python tools include: Flask, Requests.
 
 See more on how Danny Staple is also using Python to work with robots at <a href="http://orionrobots.co.uk">OrionRobots</a> - stuff with Raspberry Pi and Arduino.
-
-## Automation
-
-ODM have been working in automation for continuous integration systems with Sky, Cisco and Synamedia since 2010. This is automation of software builds, software testing and delivery into test/integration teams.
-
-ODM has been using Hudson/Jenkins since 2009 and have made contributions to some of the public plugins for the system, as well as being involved in the JIRA/mailing list communities. This includes system admin, extending with Jelly, and building jobs with it.
 
 ## Test automation
 
@@ -62,13 +75,6 @@ Prior to starting ODM, Danny built a system for automating testing of ActionScri
 
 He has used Selenium to automate testing of websites and web apps. 
 
-## Environment Automation
-
-Danny has used docker containers both as a convenient developer aid, and with systems deploying a connected set of containers, in test, staging and live deployments.
-
-Danny has also used Vagrant to create development environments where docker may not be available, getting developers running quickly with the same software, libraraies and set up as their team mates. He is also familiar with the python Virtual Env system for lighter weight local test environments.
-
-He has experience using a collection of tools for automating deployments. Ansible for installing packages, configuring systems and setting up a base layer. Gitlab CI for testing, and automated deployment stages, or using Github actions for deploying built artefacts to an S3 bucket.
 
 ## Build automation
 
@@ -129,9 +135,6 @@ This includes not only developing apps on these systems, but incorporating autom
 
 Although Python is Danny's main language, he has developed tools, apps and games in C++, C, ActionScript, Ruby, PHP and Perl - and is able to adapt to languages or tools as needed (at least those that have documentation). ODM's focus is on well designed, maintainable and clean code, with a view to portability given that some apps may need to be run on diverse technologies.
 
-# Contacting us
-
-The easiest way to contact ODM Solutions is to email <a href="mailto:danny@odmsolutions.co.uk">danny@odmsolutions.co.uk</a>.
 
 <div class="simplybusiness-insurance-badge" style="width:200px;min-width:200px;max-width:200px;margin:0;padding:0;float:none;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased">
 <div style="margin:0;padding:0;border:0;background:none;padding:20px 0;background:#fff;border:1px solid #535353;border-radius:14px 14px 0 0">
