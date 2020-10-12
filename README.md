@@ -4,4 +4,4 @@ Feel free to grab the _include/autotoc stuff or ask about any of the other CSS/J
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+(C) ODM Solutions Ltd 2020
