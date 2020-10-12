@@ -16,7 +16,7 @@ Build and delivery, repetative (not exploratory) testing, endurance (soak) testi
 
 # Contacting us
 
-The easiest way to contact ODM Solutions is to email <a href="mailto:danny@odmsolutions.co.uk">danny@odmsolutions.co.uk</a>.
+The easiest way to contact ODM Solutions is to email <a href="mailto:danny@odmsolutions.co.uk">danny@odmsolutions.co.uk</a> or via <a href="https://www.linkedin.com/in/dannystaple/">linkedin</a>.
 
 # Recent Articles
 
