@@ -114,3 +114,8 @@
 .table-of-contents a {
   text-decoration: none;
 }
+
+#ftrcontact {
+  float: right;
+}
+}
