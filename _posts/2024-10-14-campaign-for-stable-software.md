@@ -52,7 +52,7 @@ Easier said than done, but this might be a great AI use case.
 
 ### Problems collected today
 
-This is always gonna be a shorter list than I really saw. But let's try it.
+This is always gonna be a shorter list than the probelms I see in a day.
 
 ## Dependabot
 
